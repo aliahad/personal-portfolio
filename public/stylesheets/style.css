@@ -17,7 +17,7 @@ section {
 .banner {
   position: relative;
   min-height: 100vh;
-  background: url("/images/Background.jpg");
+  background: url("/images/Background.png");
   background-size: cover;
   background-position: right;
   display: flex;
@@ -195,7 +195,6 @@ header.sticky ul li a {
   max-width: 100%;
 }
 
-/* Projects */
 .projects {
   background: #111;
 }
